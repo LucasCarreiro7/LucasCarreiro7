@@ -64,7 +64,7 @@ Me chamo Lucas Carreiro Gomes, tenho 19 anos e sou natural de Fortaleza-CE. Atua
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LucasCarreiro7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
