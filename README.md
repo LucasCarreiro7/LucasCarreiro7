@@ -16,7 +16,16 @@ Me chamo Lucas Carreiro Gomes, tenho 19 anos e sou natural de Fortaleza-CE. Atua
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
     />
-          
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+    
 <img 
     align="left" 
     alt="Python" 
@@ -46,6 +55,14 @@ Me chamo Lucas Carreiro Gomes, tenho 19 anos e sou natural de Fortaleza-CE. Atua
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
+<img
+    align="left" 
+    alt="Android Studio" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+/>
 
 <img 
     align="left" 
