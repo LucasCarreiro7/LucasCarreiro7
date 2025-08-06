@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo Lucas Carreiro Gomes, tenho 19 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando Ciência da Computação na UNIFOR.
+Me chamo Lucas Carreiro Gomes, tenho 19 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando o 4° semestre do curso de Ciência da Computação na UNIFOR.
 
 ---
 
