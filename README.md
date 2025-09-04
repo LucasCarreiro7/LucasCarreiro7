@@ -19,15 +19,6 @@ Me chamo Lucas Carreiro Gomes, tenho 19 anos e sou natural de Fortaleza-CE. Atua
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-    
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -35,6 +26,41 @@ Me chamo Lucas Carreiro Gomes, tenho 19 anos e sou natural de Fortaleza-CE. Atua
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="HTML5" 
+    title="HTML5"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" 
+/>    
+
+<img
+    align="left" 
+    alt="MySQl" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 
   <img 
     align="left" 
@@ -46,14 +72,6 @@ Me chamo Lucas Carreiro Gomes, tenho 19 anos e sou natural de Fortaleza-CE. Atua
   />
           
 
-<img
-    align="left" 
-    alt="MySQl" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
 
 <img
     align="left" 
@@ -63,14 +81,6 @@ Me chamo Lucas Carreiro Gomes, tenho 19 anos e sou natural de Fortaleza-CE. Atua
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="Godot" 
-    title=""
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
           
 <br/>
 <br/>
