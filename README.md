@@ -37,6 +37,15 @@ Me chamo Lucas Carreiro Gomes, tenho 20 anos e sou natural de Fortaleza-CE. Atua
 
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
+/>
+
+<img 
+    align="left" 
     alt="HTML5" 
     title="HTML5"
     width="30px" 
